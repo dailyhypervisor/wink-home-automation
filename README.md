@@ -50,7 +50,7 @@ and secret)
 * Get Thermostat Info
 * Get Robot Info
   
-# To D0
+# To Do
 
 * Add ability to modify thermostat
 * Add ability to Open/Close Chamberlain Garage Doors
